@@ -1,0 +1,21 @@
+{
+  "name": "USDT.z Token List",
+  "logoURI": "https://raw.githubusercontent.com/Oms0795/Tether-USD-Bridged-ZED20/main/usdt-z-logo-256.png",
+  "keywords": ["usdtz", "tether", "bsc", "stable"],
+  "timestamp": "2026-11-04T00:00:00.000Z",
+  "tokens": [
+    {
+      "name": "Tether USD Bridged ZED20",
+      "symbol": "USDT.z",
+      "address": "0x4b10082996d81d3d6dAD5Ba3b13AC9eB47843db4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Oms0795/Tether-USD-Bridged-ZED20/main/usdt-z-logo-256.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
